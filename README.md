@@ -13,6 +13,14 @@ I am located in the United States and open to work in both Data Science and Soft
 1. Install dependencies using requirements.txt.
 2. Run notebooks as usual by using a jupyter notebook server, Google Colab, Vscode etc.
 
+## Academic Papers
+
+- ### Computer Science Discipline Thesis
+	- Applications of Artificial Intelligence in Cyber Security [Research](https://umm-csci.github.io/senior-seminar/seminars/fall2021/abbasov.pdf) [Presentation](https://umm-csci.github.io/senior-seminar/seminars/fall2021/abbasovslides.pdf)
+
+- ### Statistics Discipline Thesis
+	- Analysis of UMM Student Retention Data using Support Vector Machines (SVM) and Tidymodels [Research](https://drive.google.com/file/d/1O_VCg4MN66kg8ub30IS-qU3dQ4XmUzu9/view) [Presentation](https://docs.google.com/presentation/d/e/2PACX-1vSkqkOjdJs2ELSA1POUmGhir2T65siKZAgxEhZ3TDka8Jtf1CNyT_DyUZOzepKN8D3sa-edCBm0qKNb/pub?start=false&loop=false&delayms=3000&slide=id.p)
+
 ## Projects
 A big number of my machine learning and deep learning projects were done during the MIT Applied Deep Learning program, including a final create-a-thon project in which my team took first place. More can be found [here](https://github.com/abbas070/MITFutureMakers#readme).
 
