@@ -63,3 +63,7 @@ _Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame_
 
 - ### Cloud Computing and Architectures
 	- [Traveling Salesman Problem - Evolutionary Computations (AWS)](https://github.com/abbas070/EvoTSPFinalProject#readme): Used Amazon Web Services including IAM roles, EC2 and DynamoDB to set up an API Gateway connection. mplemented several AWS Lambdas to administer the responsive routes between AWS and a serverless web application. Finalized an interactive Leaflet map to solve traveling salesperson problem using evolutionary computations.
+
+## Relevant Coursework completed at University of Minnesota - Morris
+
+Biostatistics, Mathematical Statistics, Neural Networks and Machine Learning, Computing Systems: Practicum, Computing Systems: Concepts, Data Analysis, Probability and Stochastic Processes, Graphical User Interfaces, Intermediate Data Science, Introduction to Data Science, Statistical Communication, Introduction to Statistics, Cloud Computing, Cloud Computing Architectures, Software Design and Development, Algorithms and Computability, General Physics I , Calculus I, Calculus II, Foundations of Computer Science, Data Structures, Problem Solving and Algorithm Development 
