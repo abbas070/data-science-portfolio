@@ -56,3 +56,10 @@ _Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame_
 		- [STAT 2701: Analysis of Data Science Industry for International Students](https://abbas070.github.io/DataScience2701Project/): For this project, I will perform a comprehensive analysis of H-1B visa job market using a massive dataset from the Office of Foreign Labor Certification (OFLC). I have produced data products in a form of interactive applications, presentations, and data visualizations to communicate statistical ideas and results to a diverse audience with RShiny and statistical reports.
 		- [Inferential Statistics: Do men or women oppose sex education?](https://rpubs.com/Elmurad/stats-inference) : Using the GSS (General Social Survey) dataset to infer if, in the year 2012, were men, of 18 years or above in the United States, more likely to oppose sex education in public schools than women.
 		- [Data Visualization: Corruption and Human Development](https://rpubs.com/Elmurad/economist_data): A scatter plot for the relationship between the 'Human Development Index' and the 'Corruption Perceptions Index' of countries.
+
+## Other projects
+- ### Software Design & Development
+	- [Word River - Educational Web Application](https://github.com/UMM-CSci-3601-S21): This project is a full-stack educational web application designed and developed for children to learn English language. Check out a description for this project [here](https://docs.google.com/document/u/1/d/e/2PACX-1vQBlIGHfUhGw-P2hhjc5E9S1QN0pwwBJ6Z6s2pgXUMOWT18BMiP0JFrtSDW-coYM2yllTYfOYkuYUdZ/pub)
+
+- ### Cloud Computing and Architectures
+	- [Traveling Salesman Problem - Evolutionary Computations (AWS)](https://github.com/abbas070/EvoTSPFinalProject#readme): Used Amazon Web Services including IAM roles, EC2 and DynamoDB to set up an API Gateway connection. mplemented several AWS Lambdas to administer the responsive routes between AWS and a serverless web application. Finalized an interactive Leaflet map to solve traveling salesperson problem using evolutionary computations.
