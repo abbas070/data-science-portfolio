@@ -29,4 +29,5 @@ _Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame_
 	
 
 	- __R__
+		- [Behavioral Risk Factor Surveillance System(BRFSS) 2013: Exploratory Data Analysis](https://rpubs.com/Elmurad/brfss2013): Exploratory analysis of the BRFSS-2013 data set, focusing on investigating the relationship between education and eating habits, sleep and mental health, and smoking, drinking and general health of a person. 
 		- [Inferential Statistics: Do men or women oppose sex education?](https://rpubs.com/Elmurad/stats-inference) : Using the GSS (General Social Survey) dataset to infer if, in the year 2012, were men, of 18 years or above in the United States, more likely to oppose sex education in public schools than women.
