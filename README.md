@@ -20,3 +20,14 @@ _Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame_
 - ### Natural Language Processing
 
 	- [3-way Sentiment Analysis for Tweets](https://github.com/abbas070/MITFutureMakers/blob/main/site/en/tutorials/keras/text_classification.ipynb): 3-way polarity (positive, negative, neutral) classification system for tweets, without using NLTK's sentiment analysis engine.
+
+- ### Data Analysis and Visualization
+	- __Python__
+		- [911 Calls - Exploratory Analysis](https://github.com/abbas070/data-science-portfolio/blob/main/911-analysis/911%20Calls%20-%20Exploratory%20Analysis.ipynb): Exploratory Data Analysis of the 911 calls dataset hosted on Kaggle. Demonstrates extraction of useful features from different variables.
+		- [Stock Market Analysis for Tech Stocks](https://github.com/abbas070/data-science-portfolio/blob/main/stock-market-analysis/Stock%20Market%20Analysis%20for%20Tech%20Stocks.ipynb): Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction.
+		- [2016 US General Election Poll Data Analysis](https://github.com/abbas070/data-science-portfolio/blob/main/election-poll-analysis/2016%20General%20Election%20Poll%20Analysis.ipynb): Very simple analysis of 2016 US General Election Poll data.
+
+_Tools: Pandas, Seaborn and Matplotlib_
+
+	- __R__
+		- [Inferential Statistics: Do men or women oppose sex education?](https://rpubs.com/Elmurad/stats-inference) : Using the GSS (General Social Survey) dataset to infer if, in the year 2012, were men, of 18 years or above in the United States, more likely to oppose sex education in public schools than women.
