@@ -19,4 +19,4 @@ _Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame_
 
 - ### Natural Language Processing
 
-- [3-way Sentiment Analysis for Tweets](https://github.com/abbas070/MITFutureMakers/blob/main/site/en/tutorials/keras/text_classification.ipynb): 3-way polarity (positive, negative, neutral) classification system for tweets, without using NLTK's sentiment analysis engine.
+	- [3-way Sentiment Analysis for Tweets](https://github.com/abbas070/MITFutureMakers/blob/main/site/en/tutorials/keras/text_classification.ipynb): 3-way polarity (positive, negative, neutral) classification system for tweets, without using NLTK's sentiment analysis engine.
