@@ -1,5 +1,13 @@
 # Data Science Portfolio
-This repository is containing several independent data science projects that I have worked on recently for educational purposes. Some of these projects were completed under Udacity's Machine Learning Nanodegree program, more information can be found [here](https://notebook.community/).
+
+Hello. My name is Elmurad Abbasov and I have graduated this May from University of Minnesota - Morris. This repository is containing several independent data science projects that I have worked on recently for educational purposes. Some of these projects were completed under Udacity's Machine Learning Nanodegree program, more information can be found [here](https://notebook.community/). 
+
+I am located in the United States and open to work. Below is my contact information.
+
+Majors: Computer Science and Statistics (double-major)
+Minors: Data Science
+E-mail: elmurad.abbasov@gmail.com
+Phone: (312)869-0550
 
 ## Instructions for Running Python Notebooks Locally
 1. Install dependencies using requirements.txt.
