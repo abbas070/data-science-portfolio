@@ -15,14 +15,17 @@ I am located in the United States and open to work in both Data Science and Soft
 
 ## Academic Papers
 
-- ### Computer Science Discipline Thesis
-	- Applications of Artificial Intelligence in Cyber Security [Research](https://umm-csci.github.io/senior-seminar/seminars/fall2021/abbasov.pdf) [Presentation](https://umm-csci.github.io/senior-seminar/seminars/fall2021/abbasovslides.pdf)
+- ### Computer Science Discipline Thesis (advisor Professor Elena Machkasova)
+	- Applications of Artificial Intelligence in Cyber Security [[Research]](https://umm-csci.github.io/senior-seminar/seminars/fall2021/abbasov.pdf) [Presentation](https://umm-csci.github.io/senior-seminar/seminars/fall2021/abbasovslides.pdf)
 
-- ### Statistics Discipline Thesis
+- ### Statistics Discipline Thesis (advisor Professor Jon Anderson)
 	- Analysis of UMM Student Retention Data using Support Vector Machines (SVM) and Tidymodels [Research](https://drive.google.com/file/d/1O_VCg4MN66kg8ub30IS-qU3dQ4XmUzu9/view) [Presentation](https://docs.google.com/presentation/d/e/2PACX-1vSkqkOjdJs2ELSA1POUmGhir2T65siKZAgxEhZ3TDka8Jtf1CNyT_DyUZOzepKN8D3sa-edCBm0qKNb/pub?start=false&loop=false&delayms=3000&slide=id.p)
 
+- ### Mathematical Statistics (STAT 2611) Final Research (advisor Jon-Min Kim)
+	- A Classification Comparison of Machine Learning Algorithms on NSL-KDD dataset [Research](https://drive.google.com/file/d/1_7F2banseRN3rGNobj8sPlOb5Hwt7W_F/view?usp=sharing) [Presentation](https://docs.google.com/presentation/d/e/2PACX-1vQsd3o6ApDUfZ2O37Hdz2NE-wGB4lU6blZXkH9z_CZAQGC8N0-WAZnzoIp3VmelGJnRQWzKGXWIpw7i/pub?start=false&loop=false&delayms=3000)
+
 ## Projects
-A big number of my machine learning and deep learning projects were done during the MIT Applied Deep Learning program, including a final create-a-thon project in which my team took first place. More can be found [here](https://github.com/abbas070/MITFutureMakers#readme).
+A big number of my machine learning and deep learning projects were done during the MIT Applied Deep Learning program, including a final create-a-thon project in which my team took first place. More can be found [here](https://github.com/abbas070/MITFutureMakers#readme). 
 
 ## Contents
 
