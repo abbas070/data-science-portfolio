@@ -28,6 +28,5 @@ _Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame_
 		- [2016 US General Election Poll Data Analysis](https://github.com/abbas070/data-science-portfolio/blob/main/election-poll-analysis/2016%20General%20Election%20Poll%20Analysis.ipynb): Very simple analysis of 2016 US General Election Poll data.
 
 _Tools: Pandas, Seaborn and Matplotlib_
-
 	- __R__
 		- [Inferential Statistics: Do men or women oppose sex education?](https://rpubs.com/Elmurad/stats-inference) : Using the GSS (General Social Survey) dataset to infer if, in the year 2012, were men, of 18 years or above in the United States, more likely to oppose sex education in public schools than women.
