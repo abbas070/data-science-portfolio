@@ -4,7 +4,7 @@ Hello. My name is Elmurad Abbasov and I have graduated this May from University 
 
 I am located in the United States and open to work in both Data Science and Software Engineering. Below is my contact information.
 
-- Majors: Computer Science and Statistics (double-major)
+- Majors: Computer Science and Statistics (double major)
 - Minors: Data Science
 - E-mail: elmurad.abbasov@gmail.com
 - Phone: (312)869-0550
