@@ -1,6 +1,6 @@
-# Data Science Portfolio
+# Data Science & Software Engineering Portfolio
 
-Hello. My name is Elmurad Abbasov and I have graduated this May from University of Minnesota - Morris. This repository is containing several independent data science, software development, data analytics and machine learning projects that I have worked on recently for educational purposes. Some of these projects were completed under Udacity's Machine Learning Nanodegree program, more information can be found [here](https://notebook.community/). 
+Hello. My name is Elmurad Abbasov and I have graduated in May 2022 from University of Minnesota - Morris. This repository is containing several independent data science, software development, data analytics and machine learning projects that I have worked on recently for educational purposes. Some of these projects were completed under Udacity's Machine Learning Nanodegree program, more information can be found [here](https://notebook.community/). 
 
 I am located in the United States and open to work in both Data Science and Software Engineering. Below is my contact information.
 
