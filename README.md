@@ -62,7 +62,7 @@ _Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame_
 	- [Word River - Educational Web Application](https://github.com/UMM-CSci-3601-S21): This project is a full-stack educational web application designed and developed for children to learn English language. Check out a description for this project [here](https://docs.google.com/document/u/1/d/e/2PACX-1vQBlIGHfUhGw-P2hhjc5E9S1QN0pwwBJ6Z6s2pgXUMOWT18BMiP0JFrtSDW-coYM2yllTYfOYkuYUdZ/pub)
 
 - ### Cloud Computing and Architectures
-	- [Traveling Salesman Problem - Evolutionary Computations (AWS)](https://github.com/abbas070/EvoTSPFinalProject#readme): Used Amazon Web Services including IAM roles, EC2 and DynamoDB to set up an API Gateway connection. mplemented several AWS Lambdas to administer the responsive routes between AWS and a serverless web application. Finalized an interactive Leaflet map to solve traveling salesperson problem using evolutionary computations.
+	- [Traveling Salesman Problem - Evolutionary Computations (AWS)](https://github.com/abbas070/EvoTSPFinalProject#readme): Used Amazon Web Services including IAM roles, EC2 and DynamoDB to set up an API Gateway connection. Implemented several AWS Lambdas to administer the responsive routes between AWS and a serverless web application. Finalized an interactive Leaflet map to solve traveling salesperson problem using evolutionary computations.
 
 ## Relevant Coursework completed at University of Minnesota - Morris
 
